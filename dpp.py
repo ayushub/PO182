@@ -1,5 +1,3 @@
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 import unittest
 from bs4 import BeautifulSoup as BS
 from datetime import datetime
